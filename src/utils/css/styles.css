@@ -1,0 +1,19 @@
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -10px;
+}
+
+.slick-initialized {
+  overflow: hidden;
+}
+
+.sidebarStyle {
+  background: #daf3fc !important;
+  color: black !important;
+  border-radius: 10px !important;
+}
+.sidebarUnstyle {
+  color: #98a3b3 !important;
+}
